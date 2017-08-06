@@ -1,0 +1,13 @@
+
+#calculator {
+  height: 350px;
+  width: 250px;
+  background-color: green;
+text-decoration-color: black;
+}
+.calculator-button {
+  width: 25%;
+  height: 20%;
+  background-color: green;
+  text-decoration-color: green;
+}
