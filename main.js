@@ -1,3 +1,17 @@
+$(document).ready(function() {
+
+  $("p") .hide();
+
+  $("h1") .click(function() {
+      $(this) .next() .slideToggle(300);
+  });
+
+
+
+});
+
+
+
 let stuffandThings = [
     {
         text: '7',
